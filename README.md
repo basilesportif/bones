@@ -6,4 +6,9 @@ Simple skeletons and examples from which to build Urbit apps and utilities.
   - [x] poke `%noun`
   - [x] poke `%skeleton/action.hoon`, commented out
 
-* 
+* ted threads
+  - [x] stupid thread that does nothing
+  - [] build mark in Clay
+  - [] send poke to a Gall agent
+  - [] subscribe to a Gall agent
+  - [] listen for subscribe response from Gall agent
