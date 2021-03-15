@@ -6,7 +6,8 @@ Simple skeletons and examples from which to build Urbit apps and utilities.
   - [x] poke `%noun`
   - [x] poke `%skeleton/action.hoon`, commented out
 * `spider-calls`
-  - [x] start `%spider` with custom vase args for thread 
+  - [x] start `%spider` with custom vase args for thread
+  - [x] one Arvo example
 
 * ted threads
   - [x] stupid thread that does nothing
